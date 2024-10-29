@@ -1,5 +1,9 @@
 # curso-vue
 
+Esta documentacao está baseada na documentação oficial do Vue 3.
+
+
+Este template vai te ajudar a começar a desenvolver com Vue 3 no Vite.
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
