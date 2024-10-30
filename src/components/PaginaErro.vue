@@ -1,4 +1,5 @@
+<!-- Componente PaginaErro.vue -->
 <!-- HTML -->
 <template>
-    <h1>Erro!</h1>
- </template>
+    <h1>Página não encontrada!</h1>
+</template>

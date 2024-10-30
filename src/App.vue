@@ -11,11 +11,12 @@
   //import Exemplo08 from './components/Exemplo08Teclado.vue';
   //import Exemplo09 from './components/Exemplo09Enviar.vue';
   //import Exemplo10 from './components/Exemplo10Lifecycle.vue';
-  import Exemplo11 from './components/Exemplo11Props1.vue';
+  //import Exemplo11 from './components/Exemplo11Props1.vue';
+  import Exemplo12 from'./components/Exemplo12Rotas.vue';
 
 </script>
    
 <!-- HTML -->
  <template>
-    <Exemplo11></Exemplo11>
+    <Exemplo12></Exemplo12>
  </template>

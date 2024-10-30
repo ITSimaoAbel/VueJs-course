@@ -1,4 +1,5 @@
+<!-- Componente Pagina2.vue -->
 <!-- HTML -->
- <template>
-    <h1>Pagina 2</h1>
- </template>
+<template>
+    <h1>Página 2</h1>
+</template>
